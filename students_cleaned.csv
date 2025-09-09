@@ -1,0 +1,6 @@
+math score,reading score,writing score,gender_male,race/ethnicity_group B,race/ethnicity_group C,parental level of education_bachelor's degree,parental level of education_high school,parental level of education_master's degree,parental level of education_some college,lunch_standard,test preparation course_none
+0.5813953488372092,0.39473684210526305,0.6122448979591837,0,1,0,1,0,0,0,1,1
+0.5116279069767442,0.8684210526315788,0.8979591836734693,1,0,1,0,0,0,1,0,0
+1.0000000000000002,1.0,1.0,0,1,0,0,0,1,0,1,1
+0.0,0.0,0.0,0,0,0,0,0,0,0,1,1
+0.6744186046511629,0.5526315789473681,0.6326530612244898,1,0,1,0,1,0,0,0,0
